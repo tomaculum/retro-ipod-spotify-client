@@ -35,6 +35,9 @@ sudo apt-get install lightdm
 
 sudo apt-get install x11-xserver-utils
 
+sudo apt install git
+
+
 ```
 3. Install Dependencies
 
